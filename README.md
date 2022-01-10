@@ -1,9 +1,14 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I am Eric, a second year computer science major at UCI.  
+**I am Eric Huang, a second year computer science major at UC Irvine.**  
+
+- 🌱 I’m currently learning android app development, web development and machine learning
+- 👯 I’m looking to collaborate on: 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/), [facebook](https://www.facebook.com/EricHuang7280/), [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-Let's get in touch! Find me on [](https://www.linkedin.com/in/eric-huang-7280x/) or send me and [email](erichuang4312@gmail.com) 
+
+Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/)
 
 <!--
 **HE-1234/HE-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
