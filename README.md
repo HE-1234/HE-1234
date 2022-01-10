@@ -3,7 +3,8 @@
 I am Eric, a second year computer science major at UCI.  
 
 
-Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/) or send me and [email](erichuang4312@gmail.com)
+Let's get in touch! Find me on [](https://www.linkedin.com/in/eric-huang-7280x/) or send me and [email](erichuang4312@gmail.com) 
+
 <!--
 **HE-1234/HE-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
