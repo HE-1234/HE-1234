@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a second year computer science major at UCI.  
-Here is my Linked in profile: [Link]https://www.linkedin.com/in/eric-huang-7280x/ 
+Here is my [Linkedin] profile(https://www.linkedin.com/in/eric-huang-7280x/) 
 <!--
 **HE-1234/HE-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
