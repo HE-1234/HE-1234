@@ -2,13 +2,15 @@
 
 **I am Eric Huang, a second year computer science major at UC Irvine.**  
 
+I come from **ShangHai, China**, and I am currently living in **Irvine, CA**.
+
 - 🌱 I’m currently learning android app development, web development and machine learning
-- 👯 I’m looking to collaborate on: 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/), [facebook](https://www.facebook.com/EricHuang7280/), [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 👯 I’m looking to collaborate on: andorid app projects
+- programming languages I am familiar with: **Python, C++, Java, Kotlin, CSS, Mips**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/), [facebook](https://www.facebook.com/EricHuang7280/), 
+[email](mailto:erichuang4312@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-
-Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/)
 
 <!--
 **HE-1234/HE-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
