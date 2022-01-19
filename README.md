@@ -4,7 +4,8 @@
 
 I come from **ShangHai, China**, and I am currently living in **Irvine, CA**.
 
-- 🌱 I’m currently learning android app development, web development and machine learning
+- 🌱 I’m currently learning **android app development**, **web development** and 
+**machine learning**
 - 👯 I’m looking to collaborate on: andorid app projects
 - programming languages I am familiar with: **Python, C++, Java, Kotlin, CSS, Mips**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eric-huang-7280x/), [facebook](https://www.facebook.com/EricHuang7280/), 
